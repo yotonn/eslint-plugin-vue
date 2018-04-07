@@ -7,7 +7,7 @@
 
 ### 开始
 
-1. 安装eslint,eslint-plugin-vue,babel-eslint
+1. 安装eslint,eslint-plugin-vue,babel-eslint
 
     首先你要确保本地环境中 `Node.js (>=4.x), npm version 2+`，推荐使用`yarn`代替`npm`，[关于yarn介绍](https://yarn.bootcss.com/)
     - eslint可以选择本地或者全局安装
